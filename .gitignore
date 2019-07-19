@@ -1,0 +1,11 @@
+# editor files
+.vscode/
+
+# python things
+__pycache__/
+venv/
+files/
+
+# npm
+node_modules/
+frontend/yarn.lock
