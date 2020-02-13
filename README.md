@@ -1,4 +1,4 @@
-# LT-API-Pattern
+# Language Technology API pattern
 
 A simple full-stack webserver built for [React](https://reactjs.org/) and [Flask](flask.pocoo.org/).
 
